@@ -1,7 +1,7 @@
 {
   "name": "pokemmo-items-prices",
   "version": "1.0.0",
-  "description": "Library using the fiereu's API to get infos on current listings for items in PokeMMO",
+  "description": "Get data on current items listings in the PokeMMO GTL",
   "author": "Dogatsuj",
   "license": "ISC",
   "type": "module",
