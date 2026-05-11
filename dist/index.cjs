@@ -13971,14 +13971,14 @@ var items_default = {
   },
   "1576": {
     name: {
-      en: "Mysterious Pok\xE9 Ball",
-      cn: "\u795E\u79D8Pok\xE9 Ball",
-      de: "Geheimnisvoller Pok\xE9ball",
-      fr: "Myst\xE9rieuse Pok\xE9 Ball",
-      it: "Pok\xE9 Ball Misteriosa",
-      es: "Pok\xE9 Ball Misteriosa",
-      ja: "Mysterious \u30E2\u30F3\u30B9\u30BF\u30FC\u30DC\u30FC\u30EB",
-      tw: "\u795E\u7955Pok\xE9 Ball"
+      en: "Mysterious Pok\xE9 Ball (2024)",
+      cn: "\u795E\u79D8Pok\xE9 Ball (2024)",
+      de: "Geheimnisvoller Pok\xE9ball (2024)",
+      fr: "Myst\xE9rieuse Pok\xE9 Ball (2024)",
+      it: "Pok\xE9 Ball Misteriosa (2024)",
+      es: "Pok\xE9 Ball Misteriosa (2024)",
+      ja: "Mysterious \u30E2\u30F3\u30B9\u30BF\u30FC\u30DC\u30FC\u30EB (2024)",
+      tw: "\u795E\u7955Pok\xE9 Ball (2024)"
     },
     description: {
       en: "A mysterious Pok\xE9 Ball which contains\nan unknown reward. It has a high base\nchance to contain a Shiny Pok\xE9mon\n(1/8,000).\n\nExclusive to Xmas 2024.",
@@ -13993,14 +13993,14 @@ var items_default = {
   },
   "1577": {
     name: {
-      en: "Mysterious Great Ball",
-      cn: "\u795E\u79D8Great Ball",
-      de: "Geheimnisvoller Superball",
-      fr: "Myst\xE9rieuse Super Ball",
-      it: "Mega Ball Misteriosa",
-      es: "Superball Misteriosa",
-      ja: "Mysterious \u30B9\u30FC\u30D1\u30FC\u30DC\u30FC\u30EB",
-      tw: "\u795E\u7955Great Ball"
+      en: "Mysterious Great Ball (2024)",
+      cn: "\u795E\u79D8Great Ball (2024)",
+      de: "Geheimnisvoller Superball (2024)",
+      fr: "Myst\xE9rieuse Super Ball (2024)",
+      it: "Mega Ball Misteriosa (2024)",
+      es: "Superball Misteriosa (2024)",
+      ja: "Mysterious \u30B9\u30FC\u30D1\u30FC\u30DC\u30FC\u30EB (2024)",
+      tw: "\u795E\u7955Great Ball (2024)"
     },
     description: {
       en: "A mysterious Great Ball which contains\nan unknown reward. It has a high base\nchance to contain a Shiny Pok\xE9mon\n(1/6,000).\n\nExclusive to Xmas 2024.",
@@ -14015,14 +14015,14 @@ var items_default = {
   },
   "1578": {
     name: {
-      en: "Mysterious Ultra Ball",
-      cn: "\u795E\u79D8Ultra Ball",
-      de: "Mysteri\xF6ser Hyperball",
-      fr: "Myst\xE9rieuse Hyper Ball",
-      it: "Ultra Ball Misteriosa",
-      es: "Ultraball Misteriosa",
-      ja: "Mysterious \u30CF\u30A4\u30D1\u30FC\u30DC\u30FC\u30EB",
-      tw: "\u795E\u7955Ultra Ball"
+      en: "Mysterious Ultra Ball (2024)",
+      cn: "\u795E\u79D8Ultra Ball (2024)",
+      de: "Mysteri\xF6ser Hyperball (2024)",
+      fr: "Myst\xE9rieuse Hyper Ball (2024)",
+      it: "Ultra Ball Misteriosa (2024)",
+      es: "Ultraball Misteriosa (2024)",
+      ja: "Mysterious \u30CF\u30A4\u30D1\u30FC\u30DC\u30FC\u30EB (2024)",
+      tw: "\u795E\u7955Ultra Ball (2024)"
     },
     description: {
       en: "A mysterious Ultra Ball which contains\nan unknown reward. It has a very high\nbase chance to contain a Shiny\nPok\xE9mon (1/4,000).\n\nExclusive to Xmas 2024.",
@@ -14103,14 +14103,14 @@ var items_default = {
   },
   "1582": {
     name: {
-      en: "Xmas Present",
-      cn: "\u5723\u8BDE\u8282\u793C\u7269(Xmas Present)",
-      de: "Weihnachtsgeschenk",
-      fr: "Cadeau de No\xEBl",
-      it: "Regalo di Natale",
-      es: "Regalo de Navidad",
-      ja: "Xmas Present",
-      tw: "\u8056\u8A95\u7BC0\u79AE\u7269(Xmas Present)"
+      en: "Xmas Present (2024)",
+      cn: "\u5723\u8BDE\u8282\u793C\u7269(Xmas Present) (2024)",
+      de: "Weihnachtsgeschenk (2024)",
+      fr: "Cadeau de No\xEBl (2024)",
+      it: "Regalo di Natale (2024)",
+      es: "Regalo de Navidad (2024)",
+      ja: "Xmas Present (2024)",
+      tw: "\u8056\u8A95\u7BC0\u79AE\u7269(Xmas Present) (2024)"
     },
     description: {
       en: "A fancy looking present which contains\nan unknown reward.\n\nMay contain exclusive items for Xmas\n2024. Use to open.",
@@ -14125,14 +14125,14 @@ var items_default = {
   },
   "1583": {
     name: {
-      en: "Santa's Present",
-      cn: "\u5723\u8BDE\u8001\u4EBA\u7684\u793C\u7269(Santa's Present)",
-      de: "Geschenk des Weihnachtsmanns",
-      fr: "Cadeau du P\xE8re No\xEBl",
-      it: "Regalo di Babbo Natale",
-      es: "Regalo de Pap\xE1 Noel",
-      ja: "Santa's Present",
-      tw: "\u8056\u8A95\u8001\u4EBA\u7684\u79AE\u7269(Santa's Present)"
+      en: "Santa's Present (2024)",
+      cn: "\u5723\u8BDE\u8001\u4EBA\u7684\u793C\u7269(Santa's Present) (2024)",
+      de: "Geschenk des Weihnachtsmanns (2024)",
+      fr: "Cadeau du P\xE8re No\xEBl (2024)",
+      it: "Regalo di Babbo Natale (2024)",
+      es: "Regalo de Pap\xE1 Noel (2024)",
+      ja: "Santa's Present (2024)",
+      tw: "\u8056\u8A95\u8001\u4EBA\u7684\u79AE\u7269(Santa's Present) (2024)"
     },
     description: {
       en: "A fancy looking present which contains\nan unknown reward.\n\nMay contain exclusive items for Xmas\n2024. Use to open.",
@@ -14147,14 +14147,14 @@ var items_default = {
   },
   "1584": {
     name: {
-      en: "Mysterious Cherish Ball",
-      cn: "\u795E\u79D8Cherish Ball",
-      de: "Mysteri\xF6ser Jubelball",
-      fr: "M\xE9moire Ball Myst\xE9rieuse",
-      it: "Pregio Ball Misteriosa",
-      es: "Gloria Ball Misteriosa",
-      ja: "Mysterious \u30D7\u30EC\u30B7\u30E3\u30B9\u30DC\u30FC\u30EB",
-      tw: "\u795E\u7955Cherish Ball"
+      en: "Mysterious Cherish Ball (2025)",
+      cn: "\u795E\u79D8Cherish Ball (2025)",
+      de: "Mysteri\xF6ser Jubelball (2025)",
+      fr: "M\xE9moire Ball Myst\xE9rieuse (2025)",
+      it: "Pregio Ball Misteriosa (2025)",
+      es: "Gloria Ball Misteriosa (2025)",
+      ja: "Mysterious \u30D7\u30EC\u30B7\u30E3\u30B9\u30DC\u30FC\u30EB (2025)",
+      tw: "\u795E\u7955Cherish Ball (2025)"
     },
     description: {
       en: "A mysterious Cherish Ball which\ncontains an unknown reward. It has a\nhigh base chance to contain a Shiny\nPok\xE9mon (1/6,000).\n\nExclusive to Lunar New Year 2025.",
@@ -14169,14 +14169,14 @@ var items_default = {
   },
   "1585": {
     name: {
-      en: "Red Envelope",
-      cn: "\u7EA2\u5305(Red Envelope)",
-      de: "Roter Umschlag",
-      fr: "Enveloppe rouge",
-      it: "Busta Rossa",
-      es: "Sobre rojo",
-      ja: "Red Envelope",
-      tw: "\u7D05\u5305(Red Envelope)"
+      en: "Red Envelope (2025)",
+      cn: "\u7EA2\u5305(Red Envelope) (2025)",
+      de: "Roter Umschlag (2025)",
+      fr: "Enveloppe rouge (2025)",
+      it: "Busta Rossa (2025)",
+      es: "Sobre rojo (2025)",
+      ja: "Red Envelope (2025)",
+      tw: "\u7D05\u5305(Red Envelope) (2025)"
     },
     description: {
       en: "A red envelope which contains an\nunknown reward.\n\nMay contain exclusive items for Lunar\nNew Year 2025.\nUse to open.",
@@ -14191,14 +14191,14 @@ var items_default = {
   },
   "1586": {
     name: {
-      en: "Lucky Red Envelope",
-      cn: "\u5E78\u8FD0\u5927\u7EA2\u5305(Lucky Red Envelope)",
-      de: "Gl\xFCckbringender Roter Umschlag",
-      fr: "Enveloppe Rouge Chanceuse",
-      it: "Busta Rossa Fortunata",
-      es: "Sobre rojo afortunado",
-      ja: "Lucky Red Envelope",
-      tw: "\u5E78\u904B\u5927\u7D05\u5305(Lucky Red Envelope)"
+      en: "Lucky Red Envelope (2025)",
+      cn: "\u5E78\u8FD0\u5927\u7EA2\u5305(Lucky Red Envelope) (2025)",
+      de: "Gl\xFCckbringender Roter Umschlag (2025)",
+      fr: "Enveloppe Rouge Chanceuse (2025)",
+      it: "Busta Rossa Fortunata (2025)",
+      es: "Sobre rojo afortunado (2025)",
+      ja: "Lucky Red Envelope (2025)",
+      tw: "\u5E78\u904B\u5927\u7D05\u5305(Lucky Red Envelope (2025)"
     },
     description: {
       en: "An extra lucky red envelope which\ncontains an unknown reward.\n\nMay contain exclusive items for Lunar\nNew Year 2025.\nUse to open.",
@@ -44669,6 +44669,1150 @@ var items_default = {
       es: "Red Lotus Crown",
       ja: "Red Lotus Crown",
       tw: "\u8840\u83B2\u82B1\u51A0"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "1592": {
+    name: {
+      en: "Mysterious Pok\xE9 Ball",
+      cn: "\u795E\u79D8\u7CBE\u7075\u7403",
+      de: "Mysterious Pok\xE9 Ball",
+      fr: "Mysterious Pok\xE9 Ball",
+      it: "Mysterious Pok\xE9 Ball",
+      es: "Mysterious Pok\xE9 Ball",
+      ja: "Mysterious Pok\xE9 Ball",
+      tw: "\u795E\u79D8\u7CBE\u7075\u7403"
+    },
+    description: {
+      en: "A mysterious Pok\xE9 Ball which contains an unknown reward. It has a high base chance to contain a Shiny Pok\xE9mon (1/8,000). The Shiny rate increases by 15% during the 2025 Xmas Event. Exclusive to Xmas 2025",
+      cn: "\u88C5\u7740\u672A\u77E5\u5956\u52B1\u7684\u795E\u79D8\u7CBE\u7075\u7403\u30021/8000\u57FA\u7840\u95EA\u7387\u5F00\u51FA\u95EA\u5149\u5B9D\u53EF\u68A6\u3002\u95EA\u7387\u57282025\u5723\u8BDE\u8282\u671F\u95F4\u589E\u52A015%\u30022025\u5723\u8BDE\u8282\u7279\u6709",
+      de: "A mysterious Pok\xE9 Ball which contains an unknown reward. It has a high base chance to contain a Shiny Pok\xE9mon (1/8,000). The Shiny rate increases by 15% during the 2025 Xmas Event. Exclusive to Xmas 2025",
+      fr: "A mysterious Pok\xE9 Ball which contains an unknown reward. It has a high base chance to contain a Shiny Pok\xE9mon (1/8,000). The Shiny rate increases by 15% during the 2025 Xmas Event. Exclusive to Xmas 2025",
+      it: "A mysterious Pok\xE9 Ball which contains an unknown reward. It has a high base chance to contain a Shiny Pok\xE9mon (1/8,000). The Shiny rate increases by 15% during the 2025 Xmas Event. Exclusive to Xmas 2025",
+      es: "A mysterious Pok\xE9 Ball which contains an unknown reward. It has a high base chance to contain a Shiny Pok\xE9mon (1/8,000). The Shiny rate increases by 15% during the 2025 Xmas Event. Exclusive to Xmas 2025",
+      ja: "A mysterious Pok\xE9 Ball which contains an unknown reward. It has a high base chance to contain a Shiny Pok\xE9mon (1/8,000). The Shiny rate increases by 15% during the 2025 Xmas Event. Exclusive to Xmas 2025",
+      tw: "\u88C5\u7740\u672A\u77E5\u5956\u52B1\u7684\u795E\u79D8\u7CBE\u7075\u7403\u30021/8000\u57FA\u7840\u95EA\u7387\u5F00\u51FA\u95EA\u5149\u5B9D\u53EF\u68A6\u3002\u95EA\u7387\u57282025\u5723\u8BDE\u8282\u671F\u95F4\u589E\u52A015%\u30022025\u5723\u8BDE\u8282\u7279\u6709"
+    }
+  },
+  "1593": {
+    name: {
+      en: "Mysterious Great Ball",
+      cn: "\u795E\u79D8\u8D85\u7EA7\u7403",
+      de: "Mysterious Great Ball",
+      fr: "Mysterious Great Ball",
+      it: "Mysterious Great Ball",
+      es: "Mysterious Great Ball",
+      ja: "Mysterious Great Ball",
+      tw: "\u795E\u79D8\u8D85\u7EA7\u7403"
+    },
+    description: {
+      en: "A mysterious Great Ball which contains an unknown reward. It has a high base chance to contain a Shiny Pok\xE9mon (1/6,500). The Shiny rate increases by 15% during the 2025 Xmas Event. Exclusive to Xmas 2025",
+      cn: "\u88C5\u7740\u672A\u77E5\u5956\u52B1\u7684\u795E\u79D8\u8D85\u7EA7\u7403\u30021/6500\u57FA\u7840\u95EA\u7387\u5F00\u51FA\u95EA\u5149\u5B9D\u53EF\u68A6\u3002\u95EA\u7387\u57282025\u5723\u8BDE\u8282\u671F\u95F4\u589E\u52A015%\u30022025\u5723\u8BDE\u8282\u7279\u6709",
+      de: "A mysterious Great Ball which contains an unknown reward. It has a high base chance to contain a Shiny Pok\xE9mon (1/6,500). The Shiny rate increases by 15% during the 2025 Xmas Event. Exclusive to Xmas 2025",
+      fr: "A mysterious Great Ball which contains an unknown reward. It has a high base chance to contain a Shiny Pok\xE9mon (1/6,500). The Shiny rate increases by 15% during the 2025 Xmas Event. Exclusive to Xmas 2025",
+      it: "A mysterious Great Ball which contains an unknown reward. It has a high base chance to contain a Shiny Pok\xE9mon (1/6,500). The Shiny rate increases by 15% during the 2025 Xmas Event. Exclusive to Xmas 2025",
+      es: "A mysterious Great Ball which contains an unknown reward. It has a high base chance to contain a Shiny Pok\xE9mon (1/6,500). The Shiny rate increases by 15% during the 2025 Xmas Event. Exclusive to Xmas 2025",
+      ja: "A mysterious Great Ball which contains an unknown reward. It has a high base chance to contain a Shiny Pok\xE9mon (1/6,500). The Shiny rate increases by 15% during the 2025 Xmas Event. Exclusive to Xmas 2025",
+      tw: "\u88C5\u7740\u672A\u77E5\u5956\u52B1\u7684\u795E\u79D8\u8D85\u7EA7\u7403\u30021/6500\u57FA\u7840\u95EA\u7387\u5F00\u51FA\u95EA\u5149\u5B9D\u53EF\u68A6\u3002\u95EA\u7387\u57282025\u5723\u8BDE\u8282\u671F\u95F4\u589E\u52A015%\u30022025\u5723\u8BDE\u8282\u7279\u6709"
+    }
+  },
+  "1594": {
+    name: {
+      en: "Mysterious Ultra Ball",
+      cn: "\u795E\u79D8\u9AD8\u7EA7\u7403",
+      de: "Mysterious Ultra Ball",
+      fr: "Mysterious Ultra Ball",
+      it: "Mysterious Ultra Ball",
+      es: "Mysterious Ultra Ball",
+      ja: "Mysterious Ultra Ball",
+      tw: "\u795E\u79D8\u9AD8\u7EA7\u7403"
+    },
+    description: {
+      en: "A mysterious Ultra Ball which contains an unknown reward. It has a very high base chance to contain a Shiny Pok\xE9mon (1/5,000). The Shiny rate increases by 15% during the 2025 Xmas Event. Exclusive to Xmas 2025",
+      cn: "\u88C5\u7740\u672A\u77E5\u5956\u52B1\u7684\u795E\u79D8\u9AD8\u7EA7\u7403\u30021/5000\u57FA\u7840\u95EA\u7387\u5F00\u51FA\u95EA\u5149\u5B9D\u53EF\u68A6\u3002\u95EA\u7387\u57282025\u5723\u8BDE\u8282\u671F\u95F4\u589E\u52A015%\u30022025\u5723\u8BDE\u8282\u7279\u6709",
+      de: "A mysterious Ultra Ball which contains an unknown reward. It has a very high base chance to contain a Shiny Pok\xE9mon (1/5,000). The Shiny rate increases by 15% during the 2025 Xmas Event. Exclusive to Xmas 2025",
+      fr: "A mysterious Ultra Ball which contains an unknown reward. It has a very high base chance to contain a Shiny Pok\xE9mon (1/5,000). The Shiny rate increases by 15% during the 2025 Xmas Event. Exclusive to Xmas 2025",
+      it: "A mysterious Ultra Ball which contains an unknown reward. It has a very high base chance to contain a Shiny Pok\xE9mon (1/5,000). The Shiny rate increases by 15% during the 2025 Xmas Event. Exclusive to Xmas 2025",
+      es: "A mysterious Ultra Ball which contains an unknown reward. It has a very high base chance to contain a Shiny Pok\xE9mon (1/5,000). The Shiny rate increases by 15% during the 2025 Xmas Event. Exclusive to Xmas 2025",
+      ja: "A mysterious Ultra Ball which contains an unknown reward. It has a very high base chance to contain a Shiny Pok\xE9mon (1/5,000). The Shiny rate increases by 15% during the 2025 Xmas Event. Exclusive to Xmas 2025",
+      tw: "\u88C5\u7740\u672A\u77E5\u5956\u52B1\u7684\u795E\u79D8\u9AD8\u7EA7\u7403\u30021/5000\u57FA\u7840\u95EA\u7387\u5F00\u51FA\u95EA\u5149\u5B9D\u53EF\u68A6\u3002\u95EA\u7387\u57282025\u5723\u8BDE\u8282\u671F\u95F4\u589E\u52A015%\u30022025\u5723\u8BDE\u8282\u7279\u6709"
+    }
+  },
+  "1595": {
+    name: {
+      en: "Relic Note",
+      cn: "\u53E4\u8001\u97F3\u7B26",
+      de: "Relic Note",
+      fr: "Relic Note",
+      it: "Relic Note",
+      es: "Relic Note",
+      ja: "Relic Note",
+      tw: "\u53E4\u8001\u97F3\u7B26"
+    },
+    description: {
+      en: "A stone musical note which emanates a soft sound. It may be used to alter the IVs of certain Pok\xE9mon by 1. Consumed upon use",
+      cn: "\u53EF\u4EE5\u4FEE\u6B63\u67D0\u4E9B\u5B9D\u53EF\u68A61\u70B9\u4E2A\u4F53\u503C\u7684\u97F3\u7B26\u77F3\u3002\u4E00\u6B21\u6027\u6D88\u8017\u54C1",
+      de: "A stone musical note which emanates a soft sound. It may be used to alter the IVs of certain Pok\xE9mon by 1. Consumed upon use",
+      fr: "A stone musical note which emanates a soft sound. It may be used to alter the IVs of certain Pok\xE9mon by 1. Consumed upon use",
+      it: "A stone musical note which emanates a soft sound. It may be used to alter the IVs of certain Pok\xE9mon by 1. Consumed upon use",
+      es: "A stone musical note which emanates a soft sound. It may be used to alter the IVs of certain Pok\xE9mon by 1. Consumed upon use",
+      ja: "A stone musical note which emanates a soft sound. It may be used to alter the IVs of certain Pok\xE9mon by 1. Consumed upon use",
+      tw: "\u53EF\u4EE5\u4FEE\u6B63\u67D0\u4E9B\u5B9D\u53EF\u68A61\u70B9\u4E2A\u4F53\u503C\u7684\u97F3\u7B26\u77F3\u3002\u4E00\u6B21\u6027\u6D88\u8017\u54C1"
+    }
+  },
+  "1596": {
+    name: {
+      en: "Xmas Present",
+      cn: "\u5723\u8BDE\u8282\u793C\u7269",
+      de: "Xmas Present",
+      fr: "Xmas Present",
+      it: "Xmas Present",
+      es: "Xmas Present",
+      ja: "Xmas Present",
+      tw: "\u5723\u8BDE\u8282\u793C\u7269"
+    },
+    description: {
+      en: "A fancy looking present which contains an unknown reward. May contain exclusive items for Xmas 2025. Use to open",
+      cn: "\u88C5\u7740\u795E\u79D8\u5956\u52B1\u7684\u7CBE\u7F8E\u793C\u7269\u3002\u53EF\u80FD\u542B\u67092025\u5723\u8BDE\u8282\u72EC\u5BB6\u7269\u54C1\u3002\u4F7F\u7528\u540E\u6253\u5F00",
+      de: "A fancy looking present which contains an unknown reward. May contain exclusive items for Xmas 2025. Use to open",
+      fr: "A fancy looking present which contains an unknown reward. May contain exclusive items for Xmas 2025. Use to open",
+      it: "A fancy looking present which contains an unknown reward. May contain exclusive items for Xmas 2025. Use to open",
+      es: "A fancy looking present which contains an unknown reward. May contain exclusive items for Xmas 2025. Use to open",
+      ja: "A fancy looking present which contains an unknown reward. May contain exclusive items for Xmas 2025. Use to open",
+      tw: "\u88C5\u7740\u795E\u79D8\u5956\u52B1\u7684\u7CBE\u7F8E\u793C\u7269\u3002\u53EF\u80FD\u542B\u67092025\u5723\u8BDE\u8282\u72EC\u5BB6\u7269\u54C1\u3002\u4F7F\u7528\u540E\u6253\u5F00"
+    }
+  },
+  "1597": {
+    name: {
+      en: "Santa's Present",
+      cn: "\u5723\u8BDE\u8001\u4EBA\u7684\u793C\u7269",
+      de: "Santa's Present",
+      fr: "Santa's Present",
+      it: "Santa's Present",
+      es: "Santa's Present",
+      ja: "Santa's Present",
+      tw: "\u5723\u8BDE\u8001\u4EBA\u7684\u793C\u7269"
+    },
+    description: {
+      en: "A fancy looking present which contains an unknown reward. May contain exclusive items for Xmas 2025. Use to open",
+      cn: "\u88C5\u7740\u795E\u79D8\u5956\u52B1\u7684\u7CBE\u7F8E\u793C\u7269\u3002\u53EF\u80FD\u542B\u67092025\u5723\u8BDE\u8282\u72EC\u5BB6\u7269\u54C1\u3002\u4F7F\u7528\u540E\u6253\u5F00",
+      de: "A fancy looking present which contains an unknown reward. May contain exclusive items for Xmas 2025. Use to open",
+      fr: "A fancy looking present which contains an unknown reward. May contain exclusive items for Xmas 2025. Use to open",
+      it: "A fancy looking present which contains an unknown reward. May contain exclusive items for Xmas 2025. Use to open",
+      es: "A fancy looking present which contains an unknown reward. May contain exclusive items for Xmas 2025. Use to open",
+      ja: "A fancy looking present which contains an unknown reward. May contain exclusive items for Xmas 2025. Use to open",
+      tw: "\u88C5\u7740\u795E\u79D8\u5956\u52B1\u7684\u7CBE\u7F8E\u793C\u7269\u3002\u53EF\u80FD\u542B\u67092025\u5723\u8BDE\u8282\u72EC\u5BB6\u7269\u54C1\u3002\u4F7F\u7528\u540E\u6253\u5F00"
+    }
+  },
+  "1598": {
+    name: {
+      en: "Xmas Mystery Box",
+      cn: "\u5723\u8BDE\u795E\u79D8\u76D2\u5B50",
+      de: "Xmas Mystery Box",
+      fr: "Xmas Mystery Box",
+      it: "Xmas Mystery Box",
+      es: "Xmas Mystery Box",
+      ja: "Xmas Mystery Box",
+      tw: "\u5723\u8BDE\u795E\u79D8\u76D2\u5B50"
+    },
+    description: {
+      en: "A strange box which contains an unknown reward. May contain exclusive items for Xmas 2025. Use to open",
+      cn: "\u88C5\u7740\u672A\u77E5\u5956\u52B1\u7684\u795E\u79D8\u7684\u7BB1\u5B50\u3002\u53EF\u80FD\u542B\u67092025\u5723\u8BDE\u8282\u72EC\u5BB6\u7269\u54C1\u3002\u4F7F\u7528\u540E\u6253\u5F00",
+      de: "A strange box which contains an unknown reward. May contain exclusive items for Xmas 2025. Use to open",
+      fr: "A strange box which contains an unknown reward. May contain exclusive items for Xmas 2025. Use to open",
+      it: "A strange box which contains an unknown reward. May contain exclusive items for Xmas 2025. Use to open",
+      es: "A strange box which contains an unknown reward. May contain exclusive items for Xmas 2025. Use to open",
+      ja: "A strange box which contains an unknown reward. May contain exclusive items for Xmas 2025. Use to open",
+      tw: "\u88C5\u7740\u672A\u77E5\u5956\u52B1\u7684\u795E\u79D8\u7684\u7BB1\u5B50\u3002\u53EF\u80FD\u542B\u67092025\u5723\u8BDE\u8282\u72EC\u5BB6\u7269\u54C1\u3002\u4F7F\u7528\u540E\u6253\u5F00"
+    }
+  },
+  "2562": {
+    name: {
+      en: "Elven Ponytail",
+      cn: "\u7CBE\u7075\u9A6C\u5C3E",
+      de: "Elven Ponytail",
+      fr: "Elven Ponytail",
+      it: "Elven Ponytail",
+      es: "Elven Ponytail",
+      ja: "Elven Ponytail",
+      tw: "\u7CBE\u7075\u9A6C\u5C3E"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "3387": {
+    name: {
+      en: "Elven Quiver",
+      cn: "\u7CBE\u7075\u7BAD\u7B52",
+      de: "Elven Quiver",
+      fr: "Elven Quiver",
+      it: "Elven Quiver",
+      es: "Elven Quiver",
+      ja: "Elven Quiver",
+      tw: "\u7CBE\u7075\u7BAD\u7B52"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "3719": {
+    name: {
+      en: "Elven Outfit",
+      cn: "\u7CBE\u7075\u5236\u670D",
+      de: "Elven Outfit",
+      fr: "Elven Outfit",
+      it: "Elven Outfit",
+      es: "Elven Outfit",
+      ja: "Elven Outfit",
+      tw: "\u7CBE\u7075\u5236\u670D"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "3720": {
+    name: {
+      en: "Peppermint Shirt",
+      cn: "\u62D0\u6756\u7CD6\u886B",
+      de: "Peppermint Shirt",
+      fr: "Peppermint Shirt",
+      it: "Peppermint Shirt",
+      es: "Peppermint Shirt",
+      ja: "Peppermint Shirt",
+      tw: "\u62D0\u6756\u7CD6\u886B"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "3721": {
+    name: {
+      en: "Festive Dress",
+      cn: "\u5723\u8BDE\u88D9",
+      de: "Festive Dress",
+      fr: "Festive Dress",
+      it: "Festive Dress",
+      es: "Festive Dress",
+      ja: "Festive Dress",
+      tw: "\u5723\u8BDE\u88D9"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "3722": {
+    name: {
+      en: "Spruce Coat",
+      cn: "\u4E91\u6749\u5927\u8863",
+      de: "Spruce Coat",
+      fr: "Spruce Coat",
+      it: "Spruce Coat",
+      es: "Spruce Coat",
+      ja: "Spruce Coat",
+      tw: "\u4E91\u6749\u5927\u8863"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "3723": {
+    name: {
+      en: "Peace Apple Overalls",
+      cn: "\u82F9\u5B89\u670D",
+      de: "Peace Apple Overalls",
+      fr: "Peace Apple Overalls",
+      it: "Peace Apple Overalls",
+      es: "Peace Apple Overalls",
+      ja: "Peace Apple Overalls",
+      tw: "\u82F9\u5B89\u670D"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "3810": {
+    name: {
+      en: "Elven Bow",
+      cn: "\u7CBE\u7075\u5F13",
+      de: "Elven Bow",
+      fr: "Elven Bow",
+      it: "Elven Bow",
+      es: "Elven Bow",
+      ja: "Elven Bow",
+      tw: "\u7CBE\u7075\u5F13"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "4310": {
+    name: {
+      en: "Spruce Pants",
+      cn: "\u4E91\u6749\u88E4",
+      de: "Spruce Pants",
+      fr: "Spruce Pants",
+      it: "Spruce Pants",
+      es: "Spruce Pants",
+      ja: "Spruce Pants",
+      tw: "\u4E91\u6749\u88E4"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "4710": {
+    name: {
+      en: "Weasel Headdress",
+      cn: "\u6076\u9F2C\u5934\u9970",
+      de: "Weasel Headdress",
+      fr: "Weasel Headdress",
+      it: "Weasel Headdress",
+      es: "Weasel Headdress",
+      ja: "Weasel Headdress",
+      tw: "\u6076\u9F2C\u5934\u9970"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "4711": {
+    name: {
+      en: "Star Hairband",
+      cn: "\u661F\u661F\u53D1\u5E26",
+      de: "Star Hairband",
+      fr: "Star Hairband",
+      it: "Star Hairband",
+      es: "Star Hairband",
+      ja: "Star Hairband",
+      tw: "\u661F\u661F\u53D1\u5E26"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "4712": {
+    name: {
+      en: "Christmas Present Hat",
+      cn: "\u5723\u8BDE\u793C\u7269\u5E3D",
+      de: "Christmas Present Hat",
+      fr: "Christmas Present Hat",
+      it: "Christmas Present Hat",
+      es: "Christmas Present Hat",
+      ja: "Christmas Present Hat",
+      tw: "\u5723\u8BDE\u793C\u7269\u5E3D"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "4713": {
+    name: {
+      en: "Ice Horns",
+      cn: "\u51B0\u89D2",
+      de: "Ice Horns",
+      fr: "Ice Horns",
+      it: "Ice Horns",
+      es: "Ice Horns",
+      ja: "Ice Horns",
+      tw: "\u51B0\u89D2"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "4714": {
+    name: {
+      en: "Melty the Snowman",
+      cn: "\u878D\u5316\u96EA\u4EBA",
+      de: "Melty the Snowman",
+      fr: "Melty the Snowman",
+      it: "Melty the Snowman",
+      es: "Melty the Snowman",
+      ja: "Melty the Snowman",
+      tw: "\u878D\u5316\u96EA\u4EBA"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "4715": {
+    name: {
+      en: "Pudgy Penguin",
+      cn: "\u80D6\u4F01\u9E45",
+      de: "Pudgy Penguin",
+      fr: "Pudgy Penguin",
+      it: "Pudgy Penguin",
+      es: "Pudgy Penguin",
+      ja: "Pudgy Penguin",
+      tw: "\u80D6\u4F01\u9E45"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "4716": {
+    name: {
+      en: "Christmas Camo",
+      cn: "\u5723\u8BDE\u8FF7\u5F69",
+      de: "Christmas Camo",
+      fr: "Christmas Camo",
+      it: "Christmas Camo",
+      es: "Christmas Camo",
+      ja: "Christmas Camo",
+      tw: "\u5723\u8BDE\u8FF7\u5F69"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "4718": {
+    name: {
+      en: "Peace Apple Hat",
+      cn: "\u82F9\u5B89\u5E3D",
+      de: "Peace Apple Hat",
+      fr: "Peace Apple Hat",
+      it: "Peace Apple Hat",
+      es: "Peace Apple Hat",
+      ja: "Peace Apple Hat",
+      tw: "\u82F9\u5B89\u5E3D"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "4719": {
+    name: {
+      en: "Winter Deer Antlers",
+      cn: "\u51AC\u9E7F\u89D2",
+      de: "Winter Deer Antlers",
+      fr: "Winter Deer Antlers",
+      it: "Winter Deer Antlers",
+      es: "Winter Deer Antlers",
+      ja: "Winter Deer Antlers",
+      tw: "\u51AC\u9E7F\u89D2"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "4720": {
+    name: {
+      en: "Winter Fawn Bow",
+      cn: "\u51AC\u5C0F\u9E7F\u8774\u8776\u7ED3",
+      de: "Winter Fawn Bow",
+      fr: "Winter Fawn Bow",
+      it: "Winter Fawn Bow",
+      es: "Winter Fawn Bow",
+      ja: "Winter Fawn Bow",
+      tw: "\u51AC\u5C0F\u9E7F\u8774\u8776\u7ED3"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "4873": {
+    name: {
+      en: "Rudolph",
+      cn: "\u9C81\u9053\u592B",
+      de: "Rudolph",
+      fr: "Rudolph",
+      it: "Rudolph",
+      es: "Rudolph",
+      ja: "Rudolph",
+      tw: "\u9C81\u9053\u592B"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "4719": {
+    name: {
+      en: "Horse Plush",
+      cn: "\u6BDB\u7ED2\u9A6C",
+      de: "Horse Plush",
+      fr: "Horse Plush",
+      it: "Horse Plush",
+      es: "Horse Plush",
+      ja: "Horse Plush",
+      tw: "\u6BDB\u7ED2\u9A6C"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "4720": {
+    name: {
+      en: "Winter Fawn Bow",
+      cn: "\u51AC\u5C0F\u9E7F\u8774\u8776\u7ED3",
+      de: "Winter Fawn Bow",
+      fr: "Winter Fawn Bow",
+      it: "Winter Fawn Bow",
+      es: "Winter Fawn Bow",
+      ja: "Winter Fawn Bow",
+      tw: "\u51AC\u5C0F\u9E7F\u8774\u8776\u7ED3"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "4873": {
+    name: {
+      en: "Rudolph",
+      cn: "\u9C81\u9053\u592B",
+      de: "Rudolph",
+      fr: "Rudolph",
+      it: "Rudolph",
+      es: "Rudolph",
+      ja: "Rudolph",
+      tw: "\u9C81\u9053\u592B"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "1599": {
+    name: {
+      en: "Mysterious Cherish Ball",
+      cn: "\u795E\u79D8Cherish Ball",
+      de: "Mysteri\xF6ser Jubelball",
+      fr: "Myst\xE9rieuse M\xE9moire Ball",
+      it: "Pregio Ball Misteriosa",
+      es: "Gloria Ball Misteriosa",
+      ja: "Mysterious \u30D7\u30EC\u30B7\u30E3\u30B9\u30DC\u30FC\u30EB",
+      tw: "\u795E\u7955Cherish Ball"
+    },
+    description: {
+      en: "A mysterious Cherish Ball which\ncontains an unknown reward. It has a\nhigh base chance to contain a Shiny\nPok\xE9mon (1/6,000).\n\nExclusive to Lunar New Year 2026.",
+      cn: "\u88C5\u7740\u672A\u77E5\u5956\u52B1\u7684\u795E\u79D8Cherish Ball. \u9AD8\u57FA\u7840\u95EA\u7387(1/6,000)\n\u83B7\u5F97\u95EA\u5149Pok\xE9mon.\n\n2026\u6625\u8282\u7279\u6709.",
+      de: "Eine geheimnisvolle Jubelball, die\neine unbekannte Belohnung enth\xE4lt. Es\nhat eine hohe Basischance, ein\ngl\xE4nzendes Pok\xE9mon zu enthalten\n(1/6.500).\n\nExklusiv f\xFCr Lunar New Year 2026.",
+      fr: "Une myst\xE9rieuse M\xE9moire Ball qui\ncontient une r\xE9compense inconnue. Il\na de fortes chances de contenir un\nPok\xE9mon shiny (1/6 000).\n\nExclusif au Nouvel An lunaire 2026.",
+      it: "Una Pregio Ball misteriosa che\ncontiene una ricompensa sconosciuta.\nHa un'alta probabilit\xE0 di contenere\nun Pok\xE9mon Cromatico (1/6000).\n\nEsclusivo del Nuovo Anno Lunare 2026.",
+      es: "Una Gloria Ball misteriosa que\ncontiene una recompensa desconocida.\nTiene una alta probabilidad de\ncontener un Pok\xE9mon Variocolor\n(1/6,000).\n\nExclusivo del A\xF1o Nuevo Lunar 2026.",
+      ja: "A mysterious \u30D7\u30EC\u30B7\u30E3\u30B9\u30DC\u30FC\u30EB which contains\nan unknown reward. It has a high base\nchance to contain a Shiny \u30DD\u30B1\u30E2\u30F3\n(1/6,000).\n\nExclusive to Lunar New Year 2026.",
+      tw: "\u88DD\u8457\u672A\u77E5\u734E\u52F5\u7684\u795E\u7955Cherish Ball. \u9AD8\u57FA\u790E\u9583\u7387(1/6,000)\n\u7372\u5F97\u9583\u5149Pok\xE9mon.\n\n2026\u6625\u7BC0\u7279\u6709."
+    }
+  },
+  "1900": {
+    name: {
+      en: "Plume of Feathers",
+      cn: "\u7FBD\u7C07",
+      de: "Plume of Feathers",
+      fr: "Plume of Feathers",
+      it: "Plume of Feathers",
+      es: "Plume of Feathers",
+      ja: "Plume of Feathers",
+      tw: "\u7FBD\u7C07"
+    },
+    description: {
+      en: "A collection of feathers from an unknown source. It may be used to alter the IVs of certain Pok\xE9mon by 1. Consumed upon use",
+      cn: "\u53EF\u4EE5\u4FEE\u6B63\u67D0\u4E9B\u5B9D\u53EF\u68A61\u70B9\u4E2A\u4F53\u503C\u7684\u4E00\u7C07\u7FBD\u6BDB\u3002\u4E00\u6B21\u6027\u6D88\u8017\u54C1",
+      de: "A collection of feathers from an unknown source. It may be used to alter the IVs of certain Pok\xE9mon by 1. Consumed upon use",
+      fr: "A collection of feathers from an unknown source. It may be used to alter the IVs of certain Pok\xE9mon by 1. Consumed upon use",
+      it: "A collection of feathers from an unknown source. It may be used to alter the IVs of certain Pok\xE9mon by 1. Consumed upon use",
+      es: "A collection of feathers from an unknown source. It may be used to alter the IVs of certain Pok\xE9mon by 1. Consumed upon use",
+      ja: "A collection of feathers from an unknown source. It may be used to alter the IVs of certain Pok\xE9mon by 1. Consumed upon use",
+      tw: "\u53EF\u4EE5\u4FEE\u6B63\u67D0\u4E9B\u5B9D\u53EF\u68A61\u70B9\u4E2A\u4F53\u503C\u7684\u4E00\u7C07\u7FBD\u6BDB\u3002\u4E00\u6B21\u6027\u6D88\u8017\u54C1"
+    }
+  },
+  "1901": {
+    name: {
+      en: "Red Envelope",
+      cn: "\u7EA2\u5305(Red Envelope)",
+      de: "Roter Umschlag",
+      fr: "Enveloppe rouge",
+      it: "Busta Rossa",
+      es: "Sobre rojo",
+      ja: "Red Envelope",
+      tw: "\u7D05\u5305(Red Envelope)"
+    },
+    description: {
+      en: "A red envelope which contains an\nunknown reward.\n\nMay contain exclusive items for Lunar\nNew Year 2026.\nUse to open.",
+      cn: "\u88C5\u7740\u795E\u79D8\u5956\u52B1\u7684\u7EA2\u5305.\n\u53EF\u80FD\u5185\u542B2025\u6625\u8282\u7684\u72EC\u5BB6\u7269\u54C1.\n\n\u4F7F\u7528\u540E\u6253\u5F00.",
+      de: "Ein roter Umschlag, der eine\nunbekannte Belohnung enth\xE4lt.\n\nEr kann exklusive Gegenst\xE4nde f\xFCr das\nMondneujahr 2026 enthalten.\nZum \xD6ffnen verwenden.",
+      fr: "Une enveloppe rouge contenant une\nr\xE9compense inconnue.\n\nPeut contenir un objet exclusif du\nNouvel An Lunaire 2026.\nUtilisez pour ouvrir.",
+      it: "Una busta rossa che contiene una\nricompensa sconosciuta.\n\nPotrebbe contenere oggetti esclusivi\ndel Nuovo Anno Lunare 2026.\nUsa per aprirla.",
+      es: "Un sobre rojo que contiene una\nrecompensa misteriosa.\nPuede contener objetos exclusivos de\nA\xF1o Nuevo Lunar 2026.\nUsalo para abrir.",
+      ja: "A red envelope which contains an\nunknown reward.\n\nMay contain exclusive items for Lunar\nNew Year 2026.\nUse to open.",
+      tw: "\u88DD\u8457\u795E\u7955\u734E\u52F5\u7684\u7D05\u5305.\n\u53EF\u80FD\u5167\u542B2026\u6625\u7BC0\u7684\u7368\u5BB6\u7269\u54C1.\n\n\u4F7F\u7528\u5F8C\u958B\u555F."
+    }
+  },
+  "1902": {
+    name: {
+      en: "Lucky Red Envelope",
+      cn: "\u5E78\u8FD0\u5927\u7EA2\u5305(Lucky Red Envelope)",
+      de: "Gl\xFCckbringender Roter Umschlag",
+      fr: "Enveloppe Rouge Chanceuse",
+      it: "Busta Rossa Fortunata",
+      es: "Sobre rojo afortunado",
+      ja: "Lucky Red Envelope",
+      tw: "\u5E78\u904B\u5927\u7D05\u5305(Lucky Red Envelope"
+    },
+    description: {
+      en: "An extra lucky red envelope which\ncontains an unknown reward.\n\nMay contain exclusive items for Lunar\nNew Year 2026.\nUse to open.",
+      cn: "\u88C5\u7740\u795E\u79D8\u5956\u52B1\u7684\u5E78\u8FD0\u7EA2\u5305.\n\u53EF\u80FD\u5185\u542B2025\u6625\u8282\u7684\u72EC\u5BB6\u7269\u54C1.\n\n\u4F7F\u7528\u540E\u6253\u5F00.",
+      de: "Ein besonders gl\xFCcksbringender roter\nUmschlag, der eine unbekannte\nBelohnung enth\xE4lt.\n\nSie kann exklusive Gegenst\xE4nde f\xFCr das\nMondneujahr 2026 enthalten.\nZum Aufmachen verwenden.",
+      fr: "Une enveloppe rouge porte-bonheur\ncontenant une r\xE9compense inconnue.\n\nPeut contenir un objet exclusif du\nNouvel An Lunaire 2026.\nUtilisez pour ouvrir.",
+      it: "Una busta rossa molto fortunata che\ncontiene una ricompensa sconosciuta.\n\nPotrebbe contenere oggetti esclusivi\ndel Nuovo Anno Lunare 2026.\nUsa per aprirla.",
+      es: "Un sobre rojo afortunado que contiene\nuna recompensa misteriosa.\n\nPuede contener objetos exclusivos para\nA\xF1o Nuevo Lunar 2026.\nUsa para abrir.",
+      ja: "An extra lucky red envelope which\ncontains an unknown reward.\n\nMay contain exclusive items for Lunar\nNew Year 2026.\nUse to open.",
+      tw: "\u88DD\u8457\u795E\u7955\u734E\u52F5\u7684\u5E78\u904B\u7D05\u5305.\n\u53EF\u80FD\u5167\u542B2026\u6625\u7BC0\u7684\u7368\u5BB6\u7269\u54C1.\n\n\u4F7F\u7528\u5F8C\u958B\u555F."
+    }
+  },
+  "1903": {
+    name: {
+      en: "Lunar New Year Mystery Box",
+      cn: "\u6625\u8282\u795E\u79D8\u76D2\u5B50",
+      de: "Lunar New Year Mystery Box",
+      fr: "Lunar New Year Mystery Box",
+      it: "Lunar New Year Mystery Box",
+      es: "Lunar New Year Mystery Box",
+      ja: "Lunar New Year Mystery Box",
+      tw: "\u6625\u8282\u795E\u79D8\u76D2\u5B50"
+    },
+    description: {
+      en: "A strange box which contains an unknown reward. May contain exclusive items for Lunar New Year 2026. Use to open",
+      cn: "\u88C5\u7740\u672A\u77E5\u5956\u52B1\u7684\u795E\u79D8\u7684\u7BB1\u5B50\u3002\u53EF\u80FD\u542B\u67092026\u6625\u8282\u72EC\u5BB6\u7269\u54C1\u3002\u4F7F\u7528\u540E\u6253\u5F00",
+      de: "A strange box which contains an unknown reward. May contain exclusive items for Lunar New Year 2026. Use to open",
+      fr: "A strange box which contains an unknown reward. May contain exclusive items for Lunar New Year 2026. Use to open",
+      it: "A strange box which contains an unknown reward. May contain exclusive items for Lunar New Year 2026. Use to open",
+      es: "A strange box which contains an unknown reward. May contain exclusive items for Lunar New Year 2026. Use to open",
+      ja: "A strange box which contains an unknown reward. May contain exclusive items for Lunar New Year 2026. Use to open",
+      tw: "\u88C5\u7740\u672A\u77E5\u5956\u52B1\u7684\u795E\u79D8\u7684\u7BB1\u5B50\u3002\u53EF\u80FD\u542B\u67092026\u6625\u8282\u72EC\u5BB6\u7269\u54C1\u3002\u4F7F\u7528\u540E\u6253\u5F00"
+    }
+  },
+  "2563": {
+    name: {
+      en: "Elegant Ponytail",
+      cn: "\u96C5\u81F4\u9A6C\u5C3E",
+      de: "Elegant Ponytail",
+      fr: "Elegant Ponytail",
+      it: "Elegant Ponytail",
+      es: "Elegant Ponytail",
+      ja: "Elegant Ponytail",
+      tw: "\u96C5\u81F4\u9A6C\u5C3E"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "2565": {
+    name: {
+      en: "Origin Hairstyle",
+      cn: "\u8D77\u6E90\u53D1\u578B",
+      de: "Origin Hairstyle",
+      fr: "Origin Hairstyle",
+      it: "Origin Hairstyle",
+      es: "Origin Hairstyle",
+      ja: "Origin Hairstyle",
+      tw: "\u8D77\u6E90\u53D1\u578B"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "2566": {
+    name: {
+      en: "Colorful Unicorn Hair",
+      cn: "\u591A\u5F69\u72EC\u89D2\u517D\u53D1",
+      de: "Colorful Unicorn Hair",
+      fr: "Colorful Unicorn Hair",
+      it: "Colorful Unicorn Hair",
+      es: "Colorful Unicorn Hair",
+      ja: "Colorful Unicorn Hair",
+      tw: "\u591A\u5F69\u72EC\u89D2\u517D\u53D1"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "3388": {
+    name: {
+      en: "Red Petal Scarf",
+      cn: "\u7EA2\u82B1\u74E3\u56F4\u5DFE",
+      de: "Red Petal Scarf",
+      fr: "Red Petal Scarf",
+      it: "Red Petal Scarf",
+      es: "Red Petal Scarf",
+      ja: "Red Petal Scarf",
+      tw: "\u7EA2\u82B1\u74E3\u56F4\u5DFE"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "3389": {
+    name: {
+      en: "Origin Ring",
+      cn: "\u8D77\u6E90\u73AF",
+      de: "Origin Ring",
+      fr: "Origin Ring",
+      it: "Origin Ring",
+      es: "Origin Ring",
+      ja: "Origin Ring",
+      tw: "\u8D77\u6E90\u73AF"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "3724": {
+    name: {
+      en: "Musketeer Tabard",
+      cn: "\u706B\u67AA\u624B\u5916\u5957",
+      de: "Musketeer Tabard",
+      fr: "Musketeer Tabard",
+      it: "Musketeer Tabard",
+      es: "Musketeer Tabard",
+      ja: "Musketeer Tabard",
+      tw: "\u706B\u67AA\u624B\u5916\u5957"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "3725": {
+    name: {
+      en: "Origin Outfit",
+      cn: "\u8D77\u6E90\u5236\u670D",
+      de: "Origin Outfit",
+      fr: "Origin Outfit",
+      it: "Origin Outfit",
+      es: "Origin Outfit",
+      ja: "Origin Outfit",
+      tw: "\u8D77\u6E90\u5236\u670D"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "3811": {
+    name: {
+      en: "Musketeer Rapier",
+      cn: "\u706B\u67AA\u624B\u5251",
+      de: "Musketeer Rapier",
+      fr: "Musketeer Rapier",
+      it: "Musketeer Rapier",
+      es: "Musketeer Rapier",
+      ja: "Musketeer Rapier",
+      tw: "\u706B\u67AA\u624B\u5251"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "4721": {
+    name: {
+      en: "Panda Hat",
+      cn: "\u718A\u732B\u5E3D",
+      de: "Panda Hat",
+      fr: "Panda Hat",
+      it: "Panda Hat",
+      es: "Panda Hat",
+      ja: "Panda Hat",
+      tw: "\u718A\u732B\u5E3D"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "4722": {
+    name: {
+      en: "Gold Hair Ornament",
+      cn: "\u91D1\u6B65\u6447",
+      de: "Gold Hair Ornament",
+      fr: "Gold Hair Ornament",
+      it: "Gold Hair Ornament",
+      es: "Gold Hair Ornament",
+      ja: "Gold Hair Ornament",
+      tw: "\u91D1\u6B65\u6447"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "4723": {
+    name: {
+      en: "Red Tassel Hairclips",
+      cn: "\u7EA2\u7F28\u53D1\u5939",
+      de: "Red Tassel Hairclips",
+      fr: "Red Tassel Hairclips",
+      it: "Red Tassel Hairclips",
+      es: "Red Tassel Hairclips",
+      ja: "Red Tassel Hairclips",
+      tw: "\u7EA2\u7F28\u53D1\u5939"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "4724": {
+    name: {
+      en: "Horse Mask",
+      cn: "\u9A6C\u9762",
+      de: "Horse Mask",
+      fr: "Horse Mask",
+      it: "Horse Mask",
+      es: "Horse Mask",
+      ja: "Horse Mask",
+      tw: "\u9A6C\u9762"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "4725": {
+    name: {
+      en: "Musketeer Hat",
+      cn: "\u706B\u67AA\u624B\u5E3D",
+      de: "Musketeer Hat",
+      fr: "Musketeer Hat",
+      it: "Musketeer Hat",
+      es: "Musketeer Hat",
+      ja: "Musketeer Hat",
+      tw: "\u706B\u67AA\u624B\u5E3D"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "4727": {
+    name: {
+      en: "Plum Blossom Hairpin",
+      cn: "\u6885\u82B1\u7C2A",
+      de: "Plum Blossom Hairpin",
+      fr: "Plum Blossom Hairpin",
+      it: "Plum Blossom Hairpin",
+      es: "Plum Blossom Hairpin",
+      ja: "Plum Blossom Hairpin",
+      tw: "\u6885\u82B1\u7C2A"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "4878": {
+    name: {
+      en: "Noble Steed",
+      cn: "\u5B9D\u9A6C",
+      de: "Noble Steed",
+      fr: "Noble Steed",
+      it: "Noble Steed",
+      es: "Noble Steed",
+      ja: "Noble Steed",
+      tw: "\u5B9D\u9A6C"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "3390": {
+    name: {
+      en: "Flower Cape",
+      cn: "\u9C9C\u82B1\u6597\u7BF7",
+      de: "Flower Cape",
+      fr: "Flower Cape",
+      it: "Flower Cape",
+      es: "Flower Cape",
+      ja: "Flower Cape",
+      tw: "\u9C9C\u82B1\u6597\u7BF7"
+    },
+    description: {
+      en: "A cosmetic item which can be used to modify your appearance",
+      cn: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177",
+      de: "A cosmetic item which can be used to modify your appearance",
+      fr: "A cosmetic item which can be used to modify your appearance",
+      it: "A cosmetic item which can be used to modify your appearance",
+      es: "A cosmetic item which can be used to modify your appearance",
+      ja: "A cosmetic item which can be used to modify your appearance",
+      tw: "\u6539\u53D8\u89D2\u8272\u5916\u8C8C\u7684\u9053\u5177"
+    }
+  },
+  "4728": {
+    name: {
+      en: "Festive Lion Mask",
+      cn: "\u821E\u72EE\u9762\u5177",
+      de: "Festive Lion Mask",
+      fr: "Festive Lion Mask",
+      it: "Festive Lion Mask",
+      es: "Festive Lion Mask",
+      ja: "Festive Lion Mask",
+      tw: "\u821E\u72EE\u9762\u5177"
     },
     description: {
       en: "A cosmetic item which can be used to modify your appearance",
